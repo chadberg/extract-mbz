@@ -27,7 +27,7 @@ Python 2.7 (and for the uninitiated, note that newer is not better - Python 3 do
 
     Available for download for Windows from Python.Org
     
-You will also need two python libraries: slugify and python-magic (find installation instructions here https://github.com/ahupp/python-magic)
+You will also need one python libraries: python-slugify
 
 ## Usage:
 
